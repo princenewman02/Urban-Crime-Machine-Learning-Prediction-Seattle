@@ -1,0 +1,37 @@
+
+# Python
+
+__pycache__/
+
+*.py[cod]
+
+*.egg-info/
+
+.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Mac system files
+
+.DS_Store
+
+# Large data files — use Git LFS for these instead
+
+*.csv
+
+*.zip
+
+*.gpkg
+
+# Shapefiles — tracked via Git LFS
+
+*.shp
+
+*.dbf
+
+*.shx
+
+*.prj
+
